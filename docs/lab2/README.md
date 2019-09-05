@@ -6,7 +6,7 @@ The goal for this lab is to get you working hands on with a Turtlebot3 Waffle Pi
 For this lab we are going to work with Gazebo and the real robot.
 The following instructions have been tested under Ubuntu 16.04 and ROS kinetic.
 
-If you have any questions, post a new [issue](https://github.com/guilhermelawless/introduction-robotics/issues).
+If you have any questions, post a new [issue](https://github.com/irob-ist/introduction-robotics/issues).
 
 ## Setup
 
@@ -19,7 +19,7 @@ You can use the previous lab's [code](../lab1/pioneer_behavior.py) as a skeleton
 The following script will install everything you need in ~/.bashrc . Feel free to cleanup that file of anything related to this course before you run it.
 
 ```bash
-mkdir tmp_turtle && cd tmp_turtle && wget https://guilhermelawless.github.io/introduction-robotics/docs/lab2/turtlebot3_ros_setup.sh && bash turtlebot3_ros_setup.sh && cd .. && rm -rf tmp_turtle
+mkdir tmp_turtle && cd tmp_turtle && wget https://irob-ist.github.io/introduction-robotics/docs/lab2/turtlebot3_ros_setup.sh && bash turtlebot3_ros_setup.sh && cd .. && rm -rf tmp_turtle
 ```
 
 ## Tasks

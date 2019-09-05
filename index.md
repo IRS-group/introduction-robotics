@@ -10,7 +10,7 @@ Available materials:
 
 - [Lab2 instructions](docs/lab2/README.md)
 
-- [Mini-project 1 Dataset](https://github.com/guilhermelawless/turtlebot3_datasets)
+- [Mini-project 1 Dataset](https://github.com/irob-ist/turtlebot3_datasets)
 
 Others:
 
